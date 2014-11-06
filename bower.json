@@ -1,0 +1,16 @@
+{
+  "name": "ember-simple-auth-tok",
+  "homepage": "https://github.com/ahazem/ember-simple-auth-tok-component",
+  "authors": [
+    "Ahmed Hazem <ahazemm@gmail.com>"
+  ],
+  "description": "Bower repository for Ember Simple Auth Tok",
+  "license": "MIT",
+  "main": [
+    "./simple-auth-tok.js",
+    "./simple-auth-tok.amd.js"
+  ],
+  "dependencies": {
+    "ember-simple-auth": ">=0.7.1",
+  }
+}
