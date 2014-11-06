@@ -1,6 +1,6 @@
 # Ember Simple Auth Tok
 
-This is a shim repository that keeps the [Bower](http://bower.io) component of the [Ember Simple Auth](https://github.com/simplabs/ember-simple-auth) extension for [Tok](https://github.com/ahazem/tok).
+A shim repository that keeps the [Bower](http://bower.io) component of the [Ember Simple Auth](https://github.com/simplabs/ember-simple-auth) extension for [Tok](https://github.com/ahazem/tok).
 
 ```
 {
