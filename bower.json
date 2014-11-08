@@ -11,6 +11,6 @@
     "./simple-auth-tok.amd.js"
   ],
   "dependencies": {
-    "ember-simple-auth": ">=0.7.1",
+    "ember-simple-auth": ">=0.7.1"
   }
 }
