@@ -48,7 +48,7 @@ define("/simple-auth-tok/authenticators/tok",
           var data = {};
           
           data[_this.modelName] = {
-            email: credentials.email,
+            email: credentials.identification,
             password: credentials.password
           };
 
